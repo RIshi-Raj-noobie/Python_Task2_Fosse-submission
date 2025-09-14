@@ -1,3 +1,3 @@
 # Submission for Python Screening Task 2
 
-Please refer to [Submission.md](./Submission.md) for the full prompt and reasoning.
+Please refer to [SUBMISSION.md](./SUBMISSION.md) for the full prompt and reasoning.
